@@ -1,5 +1,5 @@
 import { Github, Linkedin, Mail } from "lucide-react";
-import "./App.css";
+import "./app.css";
 import profile from "./assets/profile.jpg";
 
 export default function App(){
